@@ -173,6 +173,11 @@ p {
   z-index: 1;
 }
 
+#scroll {
+  text-align: center;
+  font-size: 2.2rem;
+}
+
 #title-header-omagh {
   color: rgb(236, 29, 83);
   user-select: none;
@@ -304,6 +309,18 @@ p {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+}
+
+#arrowdown {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#arrowsymbol {
+  flex-direction: row;
+  width: 45px;
 }
 
 /** Section 2 **/
