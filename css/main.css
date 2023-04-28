@@ -641,7 +641,7 @@ p {
   display: flex;
   flex-direction: column;
   background-color: rgb(252, 249, 250);
-  cursor: url("../images/circleCursor2.svg"), auto;
+  /* cursor: url("../images/circleCursor2.svg"), auto; */
 }
 
 #timeline-track-1 {
